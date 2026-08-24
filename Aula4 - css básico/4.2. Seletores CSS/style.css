@@ -1,0 +1,19 @@
+li {
+    color: rgb(33, 129, 4);
+}
+
+.li2 {
+    color: rgb(0, 0, 0);
+}
+
+#li3 {
+    color:rgb(234, 0, 255);
+}
+
+li[li4] {
+    color: blue;
+}
+
+*[li5]{
+    color: rgb(163, 102, 102);
+}
